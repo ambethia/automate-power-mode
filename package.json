@@ -1,15 +1,13 @@
 {
   "name": "automate-power-mode",
   "main": "./lib/automate-power-mode",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Automatically ACTIVATE (and deactivate) POWER MODE as your typing speed changes.",
-  "keywords": [
-  ],
+  "keywords": [],
   "repository": "https://github.com/ambethia/automate-power-mode",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
